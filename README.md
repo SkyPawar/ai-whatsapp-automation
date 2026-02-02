@@ -96,15 +96,14 @@ Download from:
 -> ollama --version
 
 Expected output:
--> ollama version x.x.x
+- ollama version x.x.x
 
 3️⃣ Download AI Model (llama3)
--> ollama pull llama3
-
-This downloads ~4.7GB model (one time only).
+- ollama pull llama3
+- This downloads ~4.7GB model (one time only).
 
 4️⃣ Verify Ollama is Running
--> ollama list
+- ollama list
 
 Expected:
 - llama3:latest
@@ -144,7 +143,7 @@ You will see output like:
 
 ✅ Copy the https ngrok URL
 Example:
-- https://1e16426d50b9.ngrok-free.app
+- https://yourngrokid.ngrok-free.app
 
 --- 
 
