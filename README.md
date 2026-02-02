@@ -143,7 +143,7 @@ You will see output like:
 
 ✅ Copy the https ngrok URL
 Example:
-- https://yourngrokid.ngrok-free.app
+- https://your-ngrok-id.ngrok-free.app
 
 --- 
 
@@ -161,7 +161,7 @@ In “When a message comes in”, set:
 https://<ngrok-url>/whatsapp
 
 Example:
-https://1e16426d50b9.ngrok-free.app/whatsapp
+https://your-ngrok-id.ngrok-free.app/whatsapp
 
 Method: POST
 Click Save
