@@ -32,33 +32,37 @@ This project supports:
 
 ---
 
+````md
 ## 📁 Project Structure
+
+```text
 ai-automation/
-│
 ├── admin/
-│ └── dashboard.py
+│   └── dashboard.py
 │
 ├── whatsapp/
-│ └── webhook.py
+│   └── webhook.py
 │
 ├── ai/
-│ └── reply_generator.py
+│   └── reply_generator.py
 │
 ├── templates/
-│ ├── base.html
-│ └── dashboard.html
+│   ├── base.html
+│   └── dashboard.html
 │
 ├── static/
-│ └── css/style.css
+│   └── css/
+│       └── style.css
 │
 ├── logs/
-│ └── messages.log
+│   └── messages.log
 │
 ├── config.py
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
