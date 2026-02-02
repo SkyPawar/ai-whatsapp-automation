@@ -1,0 +1,6 @@
+openai
+twilio
+flask
+python-dotenv
+schedule
+imaplib2
